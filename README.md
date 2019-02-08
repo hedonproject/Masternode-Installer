@@ -1,4 +1,4 @@
-You can use our Masternode Installer Script to automatically install your Masternode. Please paste these commands into your VPS Ternimal:
+You can use our Masternode Installer Script to automatically install your Masternode. Please paste these commands into your VPS Terminal:
 ----------------
 
     wget https://github.com/hedonproject/Masternode-Installer/releases/download/v1.0/script.sh
@@ -11,10 +11,10 @@ Masternode Install Guide
 ----------------
 
 Requirements:
-    - VPS from provider line DigitalOcean, Linode, Vultr.
+    VPS from provider line DigitalOcean, Linode, Vultr.
     Recommended VPS size 1 CPU, 2GB RAM. It is advisable to be Ubuntu 16.04, otherwise you will need to compile Hedon from source.
-    - Desktop wallet with 200 001 HDN.
-    - SSH Agent such as PuTTY
+    Desktop wallet with 200 001 HDN.
+    SSH Agent such as PuTTY
 
 Setup Part 1:
     - On your desktop walet, navigate to Tools -> Console. Type in "getnewaddress". Send exactly 200 000 HDN to the address provided.
